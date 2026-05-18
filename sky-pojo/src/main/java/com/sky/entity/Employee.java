@@ -22,13 +22,16 @@ public class Employee implements Serializable {
 
     private String name;
 
-    private String password;
-
     private String phone;
 
     private String sex;
 
     private String idNumber;
+
+
+
+
+    private String password;
 
     private Integer status;
 
