@@ -29,7 +29,7 @@ public class Employee implements Serializable {
     private String idNumber;
 
 
-
+//下面是相比于DTO多出来的部分
 
     private String password;
 
